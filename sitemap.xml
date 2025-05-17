@@ -2,95 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jujushare.github.io/movies/%E5%96%9C%E5%89%A7/2/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/movies/%E5%96%9C%E5%89%A7/1/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jujushare.github.io/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/movies/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/movies/%E5%96%9C%E5%89%A7/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/movies/%E5%8A%A8%E4%BD%9C/%E9%9C%B8%E7%8E%8B%E5%88%AB%E5%A7%AC/</loc>
+    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/movies/%E5%8A%A8%E4%BD%9C/%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B0/</loc>
+    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/movies/%E5%8A%A8%E4%BD%9C/%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B02/</loc>
+    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/movies/%E5%8A%A8%E4%BD%9C/%E6%88%90%E9%BE%99%E5%8E%86%E9%99%A9%E8%AE%B03/</loc>
+    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/tv/</loc>
+    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/movies/%E5%8A%A8%E4%BD%9C/</loc>
+    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/tv/%E9%9F%A9%E5%89%A7/</loc>
+    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jujushare.github.io/tv/%E9%9F%A9%E5%89%A7/%E9%BE%99%E5%85%AB%E5%A4%B7/</loc>
     <lastmod>2023-10-01T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jujushare.github.io/categories/</loc>
-    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/categories/movie/</loc>
-    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/movies/</loc>
-    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/categories/sci-fi/</loc>
-    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/movies/%E9%9C%B8%E7%8E%8B%E5%88%AB%E5%A7%AC/</loc>
-    <lastmod>2023-10-01T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/movies/movie1/</loc>
-    <lastmod>2021-05-15T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/movies/movie2/</loc>
-    <lastmod>2021-05-15T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/tags/movie/</loc>
-    <lastmod>2021-05-15T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/tags/sci-fi/</loc>
-    <lastmod>2021-05-15T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/tags/</loc>
-    <lastmod>2021-05-15T10:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/p/markdown-syntax-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/p/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/categories/test-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/p/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jujushare.github.io/p/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jujushare.github.io/page/</loc>
   </url><url>
     <loc>https://jujushare.github.io/search/</loc>
+  </url><url>
+    <loc>https://jujushare.github.io/tags/</loc>
   </url>
 </urlset>
