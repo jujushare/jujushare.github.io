@@ -403,8 +403,6 @@
   </url><url>
     <loc>https://jujushare.github.io/page/</loc>
   </url><url>
-    <loc>https://jujushare.github.io/search/</loc>
-  </url><url>
     <loc>https://jujushare.github.io/tags/</loc>
   </url><url>
     <loc>https://jujushare.github.io/pcsoftware/</loc>
@@ -414,6 +412,8 @@
     <loc>https://jujushare.github.io/movies/%E6%81%90%E6%80%96/</loc>
   </url><url>
     <loc>https://jujushare.github.io/appsoftware/</loc>
+  </url><url>
+    <loc>https://jujushare.github.io/search/</loc>
   </url><url>
     <loc>https://jujushare.github.io/shorttv/</loc>
   </url><url>
